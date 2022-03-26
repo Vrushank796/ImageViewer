@@ -91,8 +91,8 @@
 			isa = PBXGroup;
 			children = (
 				0D10076727E3C31400C0ACEE /* ViewController.swift */,
-				0D10077D27E3D87100C0ACEE /* ImageSelectorViewController.swift */,
 				0DAB945D27E6EE0500B555F6 /* SelectViewController.swift */,
+				0D10077D27E3D87100C0ACEE /* ImageSelectorViewController.swift */,
 				0DAB945F27E6F80900B555F6 /* ImageURLSelectorViewController.swift */,
 			);
 			path = Controllers;

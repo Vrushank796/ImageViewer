@@ -8,7 +8,10 @@
 import Foundation
 import UIKit
 
+
 class Image{
+    
+    //Define and Initialize the Image Properties such as title and image
     var image : UIImage;
     var title : String = ""
     
